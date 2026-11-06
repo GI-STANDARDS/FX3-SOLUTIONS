@@ -1,0 +1,90 @@
+name: Bug report
+description: Report a reproducible problem in the documentation, sample data, or published tooling.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. This project documents Far Cry 3 editor behaviour, so include evidence and environment details.
+
+        Do not attach game files, extracted assets, account identifiers, or personal paths. Security issues belong in a private advisory, not here.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is wrong?
+      placeholder: A short description of the problem.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Documentation
+        - Thumbnail sample
+        - .xbt / DDS format notes
+        - Editor behaviour
+        - Repository tooling
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: State what was measured and what was inferred.
+      placeholder: |
+        Game: Far Cry 3, Steam, build ...
+        Editor: decompiled 2012 C# build ...
+        Object pack: ...
+        OS: Windows ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Logs, screenshots, file sizes, or measurements. Remove personal paths and account names.
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: I searched existing issues and documentation.
+          required: true
+        - label: I have removed game files, account identifiers, and personal paths from this report.
+          required: true
+        - label: I understand the repository does not grant rights to Far Cry 3 or Ubisoft material.
+          required: true

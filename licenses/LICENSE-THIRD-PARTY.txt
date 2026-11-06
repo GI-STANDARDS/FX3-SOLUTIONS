@@ -1,0 +1,110 @@
+FX3-SOLUTIONS — third-party ownership and licensing boundaries
+
+Copyright (c) 2026 GI-STANDARDS
+
+PURPOSE
+
+This file is a map of third-party material referenced, discussed, or
+included in this repository. It does not grant any rights, does not
+replace any third-party license, and is not a legal opinion. Where a
+third party publishes terms, those terms control their material.
+
+It should be read with the repository file THIRD-PARTY-NOTICES.md and the
+root LICENSE.
+
+1. FAR CRY 3 AND UBISOFT
+
+Far Cry 3, the Dunia 2 engine, and every asset inside the game — models,
+textures, meshes, materials, animations, audio, data files, and the object
+library — are owned by Ubisoft Entertainment and its licensors. They are
+protected by copyright and trademark law.
+
+This repository is not affiliated with, endorsed by, or sponsored by
+Ubisoft. "Far Cry", "Far Cry 3", and "Dunia" are trademarks of Ubisoft
+Entertainment or its affiliates; they are named for descriptive reference
+only.
+
+No game archives, extracted assets, or proprietary data files are
+distributed in this repository.
+
+2. THUMBNAIL ARCHIVE
+
+thumbnails/thumbnails.zip contains 2,050 PNG images. Each image is a
+picture of a Far Cry 3 prop, rendered at runtime by Far Cry 3's own object
+renderer while the author was using a legally purchased copy of the game.
+The source library includes a third-party object pack.
+
+Rendering does not create a new, author-owned artwork. The underlying
+props are Ubisoft's, so the archive is Ubisoft-derived material. The
+author claims no copyright in the images, grants no license to them, and
+could not.
+
+The archive is provided for private study, personal backup, and
+NonCommercial modding on top of your own copy of the game. It is not
+licensed for redistribution, mirroring, bundling, or commercial use. If
+Ubisoft or another rights holder asks for the material to be removed, it
+will be removed.
+
+3. DECOMPILED EDITOR SOURCE
+
+The renderer workflow described in this repository was developed against
+a decompiled build of the 2012 C# Far Cry 3 in-game editor. That build is
+not distributed here. Its authors and rights holders retain their rights,
+and its terms apply to anyone who obtains or uses it.
+
+Function names such as FCE_ObjectRenderer_RenderObject are documented
+because they are required to describe observed behaviour. Their presence
+here is descriptive, not a grant of any right to the editor or its code.
+
+4. THIRD-PARTY OBJECT PACKS
+
+The coverage figures in this repository were measured against a library
+that includes a third-party object pack. The pack itself is not
+distributed here. Its author or authors retain their rights, and their
+terms apply.
+
+Mods obtained from Nexus Mods, ModDB, or other sites remain subject to
+those sites' and authors' terms. This repository does not grant permission
+to redistribute them.
+
+5. NVTT ENCODER SIGNATURE
+
+The DDS block in the .xbt samples carries the four-character signature
+NVTT (0x5454564E), associated with NVIDIA Texture Tools. This is an
+observation about the files, not a distribution of the encoder. NVIDIA and
+the NVTT project retain their rights.
+
+6. SPECIFICATIONS AND LICENSE TEXTS
+
+The DDS layout discussion refers to the Microsoft DirectDraw Surface
+specification. Microsoft retains its rights; the specification is
+referenced, not reproduced.
+
+The CC BY-NC 4.0 legal code is published and maintained by Creative
+Commons. This repository links to the authoritative text rather than
+reproducing it in full, as permitted by section 3(a)(1)(C) of the Public
+License.
+
+The PolyForm Noncommercial 1.0.0 text is published by the PolyForm Project
+and is reproduced in LICENSE-CODE.txt so that the terms travel with the
+code.
+
+7. NO BUNDLED THIRD-PARTY CODE
+
+This repository currently contains no third-party executable code,
+libraries, or package dependencies. If that changes, the relevant notice
+and attribution files will be updated in the same change.
+
+8. TAKEDOWN AND CORRECTIONS
+
+If you believe material in this repository infringes your rights, or if a
+third-party attribution is missing or wrong, open an issue or contact the
+maintainer through the repository. The material will be reviewed and
+removed or corrected where appropriate.
+
+9. NOT LEGAL ADVICE
+
+This file is a good-faith record of ownership and licensing boundaries. It
+is not legal advice. If you intend to redistribute, publish, or
+commercialise anything that touches Far Cry 3 material, obtain your own
+legal advice.

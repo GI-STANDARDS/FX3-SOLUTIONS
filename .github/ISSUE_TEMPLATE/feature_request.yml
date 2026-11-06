@@ -1,0 +1,64 @@
+name: Feature request
+description: Propose a documentation, compatibility, or tooling addition.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a new document, a compatibility report, a format finding, or a tooling proposal. For a reproducible defect, use the bug report form instead.
+
+        Do not attach game files, extracted assets, account identifiers, or personal paths.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is missing or difficult today?
+      placeholder: Describe the problem, not only the proposed solution.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What should be added or changed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What else could solve this, and why is it worse?
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - Documentation
+        - Compatibility
+        - Format reference
+        - Tooling
+        - Repository maintenance
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Links, measurements, screenshots, or examples. Remove personal information.
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I have read CONTRIBUTING.md.
+          required: true
+        - label: I am willing to submit a pull request for this change.
+          required: false

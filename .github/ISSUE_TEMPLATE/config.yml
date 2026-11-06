@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security policy
+    url: https://github.com/GI-STANDARDS/FX3-SOLUTIONS/security/policy
+    about: Report vulnerabilities privately. Do not open a public issue with details.
+  - name: Documentation
+    url: https://github.com/GI-STANDARDS/FX3-SOLUTIONS/tree/main/docs
+    about: Installation, usage, asset generation, compatibility, FAQ, and technical reference.

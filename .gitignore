@@ -1,0 +1,47 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local scratch and logs
+.tmp/
+.tmp-*/
+tmp/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# .NET build output
+bin/
+obj/
+
+# Game files and extracted assets — never commit
+*.dat
+*.fat
+*.fc3map
+*.xbt
+*.dds
+*.pak
+*.sba
+*.sbt
+
+# Extracted thumbnails — the tracked copy is thumbnails/thumbnails.zip
+thumbnails/*.png
+thumbnails/**/*.png
+
+# Generated icon caches
+png_src/

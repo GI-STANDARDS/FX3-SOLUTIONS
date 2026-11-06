@@ -1,130 +1,150 @@
-FX3-SOLUTIONS — License and third-party notices
+FX3-SOLUTIONS — License and ownership notice
 
 Copyright (c) 2026 GI-STANDARDS
 
-This file is split into parts that cover different material. Read PART B before
-you use, copy, or republish anything from this repository.
+This repository contains three categories of material with different terms.
+Read this notice and licenses/LICENSE-THIRD-PARTY.txt before you use, copy,
+or republish anything from this repository.
 
 ------------------------------------------------------------------------------
-PART A — WHAT THE AUTHOR OWNS AND LICENSES
+PART A — ORIGINAL DOCUMENTATION
 ------------------------------------------------------------------------------
 
-The following material in this repository is original work by GI-STANDARDS and
-nothing else:
+The documentation, format notes, findings, README, and descriptive text
+authored by GI-STANDARDS are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0).
 
-  * README.md and LICENSE (this file)
-  * any tool, script, or source file added later and marked as original in its
-    own header
-  * the descriptive text, format notes, and findings in the documentation
-
-That material is licensed under the Creative Commons Attribution-NonCommercial
-4.0 International Public License (CC BY-NC 4.0).
-
-The full legal code of CC BY-NC 4.0 is published by Creative Commons at:
+The full notice is in licenses/LICENSE-DOCUMENTATION.txt. The authoritative
+legal code is published by Creative Commons at:
 
   https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
   https://creativecommons.org/licenses/by-nc/4.0/
 
-and is incorporated into this license in its entirety. It is not pasted into
-this file, because only Creative Commons holds the authoritative text and a
-partial copy inside a repository would misrepresent it. Section 3(a)(1)(C) of
-the Public License itself allows the license to be supplied either as text or as
-a URI or hyperlink to it, which is what this notice does.
+The legal code is incorporated into this license by reference. It is not
+pasted into this file because only Creative Commons holds the authoritative
+text; section 3(a)(1)(C) of the Public License allows the license to be
+supplied by URI or hyperlink.
 
-In plain terms, for the material listed above you may:
+In plain terms, for the documentation you may copy, share, quote, translate,
+and adapt the material for NonCommercial purposes only, provided you give
+attribution as described in PART D and indicate any changes you made.
 
-  * copy, share, quote, translate and adapt it,
-  * for NonCommercial purposes only (not primarily intended for or directed
-    towards commercial advantage or monetary compensation),
-  * provided you give attribution as described in PART C and indicate any
-    changes you made.
-
-No endorsement is implied. Creative Commons is not a party to this license and
-provides no warranty in the licensed material.
+No endorsement is implied. Creative Commons is not a party to this license
+and provides no warranty in the licensed material.
 
 ------------------------------------------------------------------------------
-PART B — WHAT IS NOT LICENSED HERE
+PART B — ORIGINAL SOURCE CODE
 ------------------------------------------------------------------------------
 
-The author does not own, and does not license, any Far Cry 3 material. Nothing
-in this repository grants you any right to use it.
+Original source code, scripts, and configuration authored by GI-STANDARDS
+are licensed under the PolyForm Noncommercial License 1.0.0.
 
-Excluded from Part A, and remaining the property of their respective owners:
+The full terms are in licenses/LICENSE-CODE.txt and are also published at:
 
-  1. Far Cry 3, the Dunia 2 engine, and every asset inside the game — models,
-     textures, meshes, materials, animations, audio, data files, and the object
-     library. Ubisoft Entertainment and its licensors own these, and they are
-     protected by copyright and trademark law.
+  https://polyformproject.org/licenses/noncommercial/1.0.0
 
-  2. The images in the `thumbnails/` folder. Each one is a picture of a Far Cry
-     3 prop, rendered at runtime by Far Cry 3's own object renderer while the
-     author was using his own legally purchased copy of the game. Rendering does
-     not create a new, author-owned artwork: the underlying prop is Ubisoft's,
-     so these files are Ubisoft-derived material. The author claims no copyright
-     in them, grants no license to them, and could not.
+At the time of writing, no original source code is published in this
+repository. When original code is added, it is licensed under these terms
+unless the file header states otherwise.
 
-  3. Any game archive (`patch.dat`, `patch.fat`, `common.dat`, `common.fat`),
-     extracted fragment, `.xbt`/`.dds` texture, or `.fc3map` file belonging to
+Code and documentation use separate licenses because Creative Commons
+recommends against using its licenses for software.
+
+------------------------------------------------------------------------------
+PART C — WHAT IS NOT LICENSED HERE
+------------------------------------------------------------------------------
+
+The author does not own, and does not license, any Far Cry 3 material.
+Nothing in this repository grants you any right to use it.
+
+Excluded from Parts A and B, and remaining the property of their respective
+owners:
+
+  1. Far Cry 3, the Dunia 2 engine, and every asset inside the game —
+     models, textures, meshes, materials, animations, audio, data files,
+     and the object library. Ubisoft Entertainment and its licensors own
+     these, and they are protected by copyright and trademark law.
+
+  2. The images in thumbnails/thumbnails.zip. Each one is a picture of a
+     Far Cry 3 prop, rendered at runtime by Far Cry 3's own object renderer
+     while the author was using a legally purchased copy of the game.
+     Rendering does not create a new, author-owned artwork: the underlying
+     prop is Ubisoft's, so these files are Ubisoft-derived material. The
+     author claims no copyright in them, grants no license to them, and
+     could not.
+
+  3. Any game archive (patch.dat, patch.fat, common.dat, common.fat),
+     extracted fragment, .xbt/.dds texture, or .fc3map file belonging to
      the game, whether or not it appears in discussions here.
 
-  4. Third-party tools and projects referenced in the documentation — including
-     the decompiled Far Cry 3 in-game editor source the author builds on, and
-     any mod from Nexus Mods or ModDB. Those have their own authors and their
-     own terms; this license says nothing about them.
+  4. Third-party tools and projects referenced in the documentation —
+     including the decompiled Far Cry 3 in-game editor source the author
+     builds on, and any mod from Nexus Mods, ModDB, or another source.
+     Those have their own authors and their own terms; this license says
+     nothing about them.
 
-Why the folder is published at all, and what that means for you:
+Why the thumbnail archive is published at all, and what that means for you:
 
-  `thumbnails/` is here so that other Far Cry 3 modders can see the shape of a
-  working icon set and compare it against their own. It is meant for private
-  study, personal backup, and NonCommercial modding on top of your own copy of
-  the game.
+  The archive is here so that other Far Cry 3 modders can see the shape of
+  a working icon set and compare it against their own. It is meant for
+  private study, personal backup, and NonCommercial modding on top of your
+  own copy of the game.
 
-  The author is not certain that republishing engine-rendered game assets is
-  permitted by Ubisoft's end-user licence, and a repository is not a legal
-  opinion. If you redistribute, host, mirror, or bundle these images anywhere,
-  you do it on your own judgement and your own risk. If Ubisoft or a rights
-  holder asks for this material to be removed, the author will remove it, and
-  you should do the same in your copies.
+  The author is not certain that republishing engine-rendered game assets
+  is permitted by Ubisoft's end-user license, and a repository is not a
+  legal opinion. If you redistribute, host, mirror, or bundle these images
+  anywhere, you do it on your own judgement and your own risk. If Ubisoft
+  or a rights holder asks for this material to be removed, the author will
+  remove it, and you should do the same in your copies.
 
-  The path this project actually recommends is generating your own set from your
-  own installation, so that nothing Ubisoft-derived ever has to pass through a
-  download. README.md documents how.
+  The path this project recommends is generating your own set from your
+  own installation, so that nothing Ubisoft-derived has to pass through a
+  download. docs/ASSET-GENERATION.md documents how.
+
+The full third-party map is in THIRD-PARTY-NOTICES.md and
+licenses/LICENSE-THIRD-PARTY.txt.
 
 ------------------------------------------------------------------------------
-PART C — ATTRIBUTION FORMAT
+PART D — ATTRIBUTION
 ------------------------------------------------------------------------------
 
-When you share or adapt the material licensed in Part A, credit it in a
-reasonable manner, for example:
+When you share or adapt the documentation licensed in Part A, credit it in
+a reasonable manner, for example:
 
   "FX3-SOLUTIONS — Far Cry 3 editor thumbnail notes, by GI-STANDARDS,
-   https://github.com/GI-STANDARDS/FX3-SOLUTIONS, licensed under CC BY-NC 4.0
-   (https://creativecommons.org/licenses/by-nc/4.0/)."
+   https://github.com/GI-STANDARDS/FX3-SOLUTIONS, licensed under
+   CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)."
 
-If you modify it, say so. If you include Far Cry 3 material of any kind, keep
-PART B visible as well, and do not imply that Ubisoft, Cryo, or the original
-editor authors are connected with your work or have endorsed it.
+If you modify it, say so. If you include Far Cry 3 material of any kind,
+keep PART C visible as well, and do not imply that Ubisoft or the
+original editor authors are connected with your work or have endorsed it.
 
-------------------------------------------------------------------------------
-PART D — NO WARRANTY
-------------------------------------------------------------------------------
-
-The material in Part A is provided as-is, with no warranties of any kind and no
-limitation of liability, to the fullest extent permitted by applicable law. Far
-Cry 3 modding can break a game installation, corrupt a save or a map, and get an
-online account flagged. Nothing here promises that any technique is safe,
-correct, or works on your machine. Back up before you experiment.
+When you redistribute original source code licensed in Part B, keep the
+plain-text line beginning with "Required Notice:" that is supplied with
+the code, together with a copy of the PolyForm terms or their URL.
 
 ------------------------------------------------------------------------------
-PART E — TRADEMARKS, TERM, AND CHANGES
+PART E — NO WARRANTY
+------------------------------------------------------------------------------
+
+The material in Parts A and B is provided as-is, with no warranties of any
+kind and no limitation of liability, to the fullest extent permitted by
+applicable law. Far Cry 3 modding can break a game installation, corrupt a
+save or a map, and get an online account flagged. Nothing here promises
+that any technique is safe, correct, or works on your machine. Back up
+before you experiment.
+
+------------------------------------------------------------------------------
+PART F — TRADEMARKS, TERM, AND CHANGES
 ------------------------------------------------------------------------------
 
 No trademark rights are licensed. "Far Cry", "Far Cry 3", and "Dunia" are
 trademarks of Ubisoft Entertainment or its affiliates; naming them here is
 descriptive reference only.
 
-This license covers the repository contents as published on the date above. The
-author may relicense or restructure his own original material in later commits;
-that does not retract the license already granted for the version you received.
+This license covers the repository contents as published on the date above.
+The author may relicense or restructure original material in later commits;
+that does not retract the license already granted for the version you
+received.
 
 Contact: the repository issue tracker on GitHub.

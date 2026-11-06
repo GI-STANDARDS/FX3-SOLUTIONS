@@ -1,0 +1,73 @@
+FX3-SOLUTIONS — documentation license
+
+Copyright (c) 2026 GI-STANDARDS
+
+SCOPE
+
+This license applies to original documentation authored by GI-STANDARDS
+and published in this repository, including the README, the files under
+docs/, the format notes, the measurement record, and other descriptive
+text.
+
+It does not apply to:
+
+  * original source code — see LICENSE-CODE.txt;
+
+  * Far Cry 3, the Dunia 2 engine, game assets, the thumbnail archive,
+    or any other Ubisoft material — see LICENSE-THIRD-PARTY.txt;
+
+  * third-party tools, decompiled editor source, or object packs — see
+    LICENSE-THIRD-PARTY.txt.
+
+LICENSE
+
+The documentation is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International Public License
+(CC BY-NC 4.0).
+
+The authoritative legal code is published by Creative Commons at:
+
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+  https://creativecommons.org/licenses/by-nc/4.0/
+
+The legal code is incorporated into this license by reference. It is not
+pasted into this file because only Creative Commons holds the authoritative
+text; section 3(a)(1)(C) of the Public License allows the license to be
+supplied by URI or hyperlink.
+
+In plain terms, you may copy, share, quote, translate, and adapt the
+documentation for NonCommercial purposes only, provided you give
+attribution and indicate any changes you made.
+
+No endorsement is implied. Creative Commons is not a party to this license
+and provides no warranty in the licensed material.
+
+ATTRIBUTION
+
+Credit the work in a reasonable manner, for example:
+
+  "FX3-SOLUTIONS — Far Cry 3 editor thumbnail notes, by GI-STANDARDS,
+   https://github.com/GI-STANDARDS/FX3-SOLUTIONS, licensed under
+   CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)."
+
+If you modify the material, say so. If you include Far Cry 3 material of
+any kind, keep the exclusion notice visible as well, and do not imply that
+Ubisoft or the original editor authors are connected with your work or
+have endorsed it.
+
+EXCLUSIONS
+
+Ubisoft material, the thumbnail archive, third-party editor source, and
+object packs are not licensed under this notice. See LICENSE-THIRD-PARTY.txt
+and the repository file THIRD-PARTY-NOTICES.md.
+
+NO WARRANTY AND TRADEMARKS
+
+The documentation is provided as-is, with no warranties of any kind and no
+limitation of liability, to the fullest extent permitted by applicable law.
+
+No trademark rights are licensed. "Far Cry", "Far Cry 3", and "Dunia" are
+trademarks of Ubisoft Entertainment or its affiliates; naming them is
+descriptive reference only.
+
+See the root LICENSE for the complete ownership and warranty notice.

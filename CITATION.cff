@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this documentation, please cite it as below. The license field covers original documentation only; see LICENSE for code and third-party terms."
+title: "FX3-SOLUTIONS"
+abstract: "Technical documentation for Far Cry 3 sandbox and map-editor thumbnail handling, covering object-browser icon lookup, thumbnail generation, and the .xbt texture container. CC BY-NC 4.0 covers original documentation; original code uses PolyForm Noncommercial 1.0.0; Far Cry 3 and Ubisoft material are excluded."
+type: other
+authors:
+  - name: "GI-STANDARDS"
+    website: "https://github.com/GI-STANDARDS"
+repository-code: "https://github.com/GI-STANDARDS/FX3-SOLUTIONS"
+url: "https://github.com/GI-STANDARDS/FX3-SOLUTIONS"
+license: "CC-BY-NC-4.0"
+license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
+version: "0.1.1"
+date-released: "2026-11-06"
+keywords:
+  - "Far Cry 3"
+  - "Dunia 2"
+  - "map editor"
+  - "thumbnails"
+  - "XBT"
+  - "DDS"
+  - "DXT5"
+  - "modding"
