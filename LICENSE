@@ -1,68 +1,130 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+FX3-SOLUTIONS — License and third-party notices
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Copyright (c) 2026 GI-STANDARDS
 
-Section 1 – Definitions.
+This file is split into parts that cover different material. Read PART B before
+you use, copy, or republish anything from this repository.
 
-a. Adapted Material means material that is subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-b. Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
-c. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
-d. Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-e. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-f. Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-g. Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-h. Licensor means the individual(s) or entity(ies) granting rights under this Public License.
-i. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other copyrighted material by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
-j. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-k. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9//EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-l. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+------------------------------------------------------------------------------
+PART A — WHAT THE AUTHOR OWNS AND LICENSES
+------------------------------------------------------------------------------
 
-Section 2 – Scope.
+The following material in this repository is original work by GI-STANDARDS and
+nothing else:
 
-a. License grant.
-   1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-      A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
-      B. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
-   2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
-   3. Term. The term of this Public License is specified in Section 6(a).
-   4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
-   5. Downstream recipients.
-      A. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-      B. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
-   6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others as provided in Section 3(a)(1)(A)(i).
+  * README.md and LICENSE (this file)
+  * any tool, script, or source file added later and marked as original in its
+    own header
+  * the descriptive text, format notes, and findings in the documentation
 
-b. Other rights.
-   1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
-   2. Patent and trademark rights are not licensed under this Public License.
-   3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves the right to collect such royalties, including when the Licensed Material is used for other than NonCommercial purposes.
+That material is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International Public License (CC BY-NC 4.0).
 
-Section 3 – License Conditions.
+The full legal code of CC BY-NC 4.0 is published by Creative Commons at:
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+  https://creativecommons.org/licenses/by-nc/4.0/
 
-a. Attribution.
-   1. If You Share the Licensed Material (including in modified form), You must:
-      A. retain the following if it is supplied by the Licensor with the Licensed Material:
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-         ii. a copyright notice;
-         iii. a notice that refers to this Public License;
-         iv. a notice that refers to the disclaimer of warranties;
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-      B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-      C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-   3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
-   4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+and is incorporated into this license in its entirety. It is not pasted into
+this file, because only Creative Commons holds the authoritative text and a
+partial copy inside a repository would misrepresent it. Section 3(a)(1)(C) of
+the Public License itself allows the license to be supplied either as text or as
+a URI or hyperlink to it, which is what this notice does.
 
-Section 4 – Sui Generis Database Rights.
+In plain terms, for the material listed above you may:
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+  * copy, share, quote, translate and adapt it,
+  * for NonCommercial purposes only (not primarily intended for or directed
+    towards commercial advantage or monetary compensation),
+  * provided you give attribution as described in PART C and indicate any
+    changes you made.
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+No endorsement is implied. Creative Commons is not a party to this license and
+provides no warranty in the licensed material.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+------------------------------------------------------------------------------
+PART B — WHAT IS NOT LICENSED HERE
+------------------------------------------------------------------------------
 
-Section 5 – Disclaimer of Warranties and Limitation of Liability.
+The author does not own, and does not license, any Far Cry 3 material. Nothing
+in this repository grants you any right to use it.
 
+Excluded from Part A, and remaining the property of their respective owners:
+
+  1. Far Cry 3, the Dunia 2 engine, and every asset inside the game — models,
+     textures, meshes, materials, animations, audio, data files, and the object
+     library. Ubisoft Entertainment and its licensors own these, and they are
+     protected by copyright and trademark law.
+
+  2. The images in the `thumbnails/` folder. Each one is a picture of a Far Cry
+     3 prop, rendered at runtime by Far Cry 3's own object renderer while the
+     author was using his own legally purchased copy of the game. Rendering does
+     not create a new, author-owned artwork: the underlying prop is Ubisoft's,
+     so these files are Ubisoft-derived material. The author claims no copyright
+     in them, grants no license to them, and could not.
+
+  3. Any game archive (`patch.dat`, `patch.fat`, `common.dat`, `common.fat`),
+     extracted fragment, `.xbt`/`.dds` texture, or `.fc3map` file belonging to
+     the game, whether or not it appears in discussions here.
+
+  4. Third-party tools and projects referenced in the documentation — including
+     the decompiled Far Cry 3 in-game editor source the author builds on, and
+     any mod from Nexus Mods or ModDB. Those have their own authors and their
+     own terms; this license says nothing about them.
+
+Why the folder is published at all, and what that means for you:
+
+  `thumbnails/` is here so that other Far Cry 3 modders can see the shape of a
+  working icon set and compare it against their own. It is meant for private
+  study, personal backup, and NonCommercial modding on top of your own copy of
+  the game.
+
+  The author is not certain that republishing engine-rendered game assets is
+  permitted by Ubisoft's end-user licence, and a repository is not a legal
+  opinion. If you redistribute, host, mirror, or bundle these images anywhere,
+  you do it on your own judgement and your own risk. If Ubisoft or a rights
+  holder asks for this material to be removed, the author will remove it, and
+  you should do the same in your copies.
+
+  The path this project actually recommends is generating your own set from your
+  own installation, so that nothing Ubisoft-derived ever has to pass through a
+  download. README.md documents how.
+
+------------------------------------------------------------------------------
+PART C — ATTRIBUTION FORMAT
+------------------------------------------------------------------------------
+
+When you share or adapt the material licensed in Part A, credit it in a
+reasonable manner, for example:
+
+  "FX3-SOLUTIONS — Far Cry 3 editor thumbnail notes, by GI-STANDARDS,
+   https://github.com/GI-STANDARDS/FX3-SOLUTIONS, licensed under CC BY-NC 4.0
+   (https://creativecommons.org/licenses/by-nc/4.0/)."
+
+If you modify it, say so. If you include Far Cry 3 material of any kind, keep
+PART B visible as well, and do not imply that Ubisoft, Cryo, or the original
+editor authors are connected with your work or have endorsed it.
+
+------------------------------------------------------------------------------
+PART D — NO WARRANTY
+------------------------------------------------------------------------------
+
+The material in Part A is provided as-is, with no warranties of any kind and no
+limitation of liability, to the fullest extent permitted by applicable law. Far
+Cry 3 modding can break a game installation, corrupt a save or a map, and get an
+online account flagged. Nothing here promises that any technique is safe,
+correct, or works on your machine. Back up before you experiment.
+
+------------------------------------------------------------------------------
+PART E — TRADEMARKS, TERM, AND CHANGES
+------------------------------------------------------------------------------
+
+No trademark rights are licensed. "Far Cry", "Far Cry 3", and "Dunia" are
+trademarks of Ubisoft Entertainment or its affiliates; naming them here is
+descriptive reference only.
+
+This license covers the repository contents as published on the date above. The
+author may relicense or restructure his own original material in later commits;
+that does not retract the license already granted for the version you received.
+
+Contact: the repository issue tracker on GitHub.
